@@ -1,0 +1,18 @@
+{
+  "name": "template-sass",
+  "version": "0.1.0",
+  "description": "template-sass",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "node_modules/.bin/grunt"
+  },
+  "author": "turunco",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

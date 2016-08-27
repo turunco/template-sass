@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+$color-base:#202040;
+$color-key:#00ff00;
+
+$fontsize-base:17px;
+$fontsize-title:30px;
+
+
+body{
+    background: $color-key;
+    font-size: $fontsize-base;
+}
+/* SCSS */
