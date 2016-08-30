@@ -36,13 +36,9 @@ module.exports = function(grunt) {
 			dist: {
 				files: [{
 					expand: true,
-					// scssファイルの配置フォルダー
 					cwd: "scss",
-					// scssファイルのマッチパターンの指定
 					src: ["**/*.scss"],
-					// フォルダーの指定
 					dest: "css",
-					// 拡張子の指定
 					ext: ".css"
 				}]
 			}
