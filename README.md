@@ -55,4 +55,4 @@ Done installing documentation for sass after 3 seconds
 1. % npm install
 2. % grunt serve
 3. open [http://localhost:8080/](http://localhost:8080/) on browser
-2. change `scss/default.scss`
+4. change `scss/default.scss`
